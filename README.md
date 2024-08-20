@@ -13,3 +13,5 @@ This tutorial provides detailed information about extracting named entities from
 
 ## Prerequisites
 - Prior knowledge of Python programming is required for this tutorial
+- Prior knowledge of Jupyter/IPython Notebook usage is required for this tutorial
+- Prior knowledge of Google Colab usage is required for this tutorial
