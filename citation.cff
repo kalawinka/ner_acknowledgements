@@ -1,0 +1,16 @@
+title: "Extracting Named Entities from scientific acknowledgements using the Flair NLP Framework"
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Smirnova"
+    given-names: "Nina"
+    email: "nina.smirnova@gesis.org"
+date-released: 2025-06-29
+keywords:
+  - "natural language processing"
+  - "acknowledgements"
+  - "citation"
+  - "NER"
+  - "machine learning"
+
+url: "https://github.com/kalawinka/ner_acknowledgements"
